@@ -1,13 +1,13 @@
 # TOEIC单词学习项目
+###10
+【【1 After the CEO’s **prompt** resignation, the board issued a **complimentary** statement that **barely** acknowledged the turmoil within the **estate** division. Meanwhile, our **stock** began to **rise** slightly as investors showed renewed **bond** with the company’s long-term vision. To **strip** away inefficiencies, management hired an external consultant to **diagnose** operational bottlenecks, from supply chain logistics to the final **delivery** of client projects. Though the situation remained tense, the preliminary review suggested that with careful restructuring, the real estate portfolio could stabilize, and the stock might recover further. Employees were relieved to hear that no drastic layoffs were planned, only a strategic reallocation of resources across underperforming units. The consultant’s report, however, warned that without addressing the root causes of low morale and missed deadlines, even a **complimentary** earnings report would **barely** restore trust. Still, the **prompt** formation of a recovery task force gave everyone hope that the worst was over, and that the company would **rise** again, stronger than before, with every department working in closer **bond** than ever.
 
-一个帮助你学习TOEIC词汇的项目。
+——1 在CEO**迅速**辞职后，董事会发布了一份**称赞**的声明，该声明**勉强**提及了房地产部门内部的动荡。与此同时，我们的**股票**开始**上涨**，因为投资者对公司长期愿景重新产生了**联系**。为了**剥离**低效环节，管理层聘请了一位外部顾问来**诊断**运营瓶颈，从供应链物流到客户项目的最终**交付**。尽管局势依然紧张，但初步评估表明，通过谨慎的重组，房地产投资组合可以稳定下来，股价也可能进一步回升。员工们欣慰地得知，公司并未计划大规模裁员，只是对表现不佳的部门进行战略性的资源重新分配。然而，顾问的报告警告说，如果不解决士气低落和错过截止日期的根本原因，即使是一份**称赞**的财报也**勉强**能恢复信任。尽管如此，**迅速**成立复苏工作组让所有人看到了希望，最糟糕的时期已经过去，公司将以更紧密的**联系**，比以前更强大地**崛起**。
 
-## 功能特点
+——1 (prompt - adj. 迅速的)(complimentary - adj. 称赞的)(barely - adv. 勉强)(estate - n. 房地产)(stock - n. 股票)(rise - v. 上涨)(bond - n. 联系)(strip - v. 剥离)(diagnose - v. 诊断)(delivery - n. 交付)】】
+###20
+【【1 As a senior **associate** in our risk management division, I strongly **recommend** that every new hire **acquaint** themselves with the compliance protocols before attempting to **transact** any client business. Each **candidate** undergoing training must demonstrate proficiency in these procedures, while more experienced staff act as **spectator**s during simulation exercises, offering feedback from a slight **distant** vantage point to avoid interference. Should an error occur during a live trade, the system is designed to **compensate** for minor discrepancies automatically, though any major failure would force us to **postpone** further trading until we can fully **evaluate** the root cause. Last quarter, for instance, a pricing glitch prompted an immediate halt, allowing our team to **evaluate** the situation, **compensate** affected clients, and then resume normal operations within hours. This proactive approach has earned us a reputation for reliability, and even **distant** overseas offices now follow the same rigorous standards. Ultimately, whether you are a junior **associate** or a seasoned trader, your ability to **acquaint** yourself with evolving market rules will determine how effectively you **transact** and grow within this competitive landscape.
 
-- 单词列表管理
-- 学习进度追踪
-- 测试练习模式
+——1 作为我们风险管理部的一名高级**同事**，我强烈**建议**每位新员工在尝试**进行**任何客户业务之前，先**熟悉**合规流程。每一位接受培训的**候选人**都必须证明自己熟练掌握这些流程，而经验丰富的员工则在模拟练习中担任**旁观者**，从稍显**遥远**的有利位置提供反馈，以避免干扰。如果在真实交易中发生错误，系统会自动**补偿**微小的差异，但如果出现重大故障，我们将被迫**推迟**进一步的交易，直到能够全面**评估**根本原因。例如，上个季度的一次定价故障促使我们立即暂停交易，使团队得以**评估**情况、**补偿**受影响的客户，并在几小时内恢复正常运营。这种积极主动的态度为我们赢得了可靠性的声誉，就连**遥远**的海外办事处现在也遵循同样严格的标准。归根结底，无论你是初级**同事**还是经验丰富的交易员，你**熟悉**不断变化的市场规则的能力，将决定你在这个竞争激烈的环境中**进行**交易和成长的效果。
 
-## 开始使用
-
-请参考项目文档开始使用。
+——1 (associate - n. 同事)(recommend - v. 建议)(acquaint - v. 熟悉)(transact - v. 进行)(candidate - n. 候选人)(spectator - n. 旁观者)(distant - adj. 遥远的)(compensate - v. 补偿)(postpone - v. 推迟)(evaluate - v. 评估)】】
